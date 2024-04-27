@@ -1,0 +1,19 @@
+.nav {
+    text-align: center;
+    max-width: 2000px;
+    min-height: 40px;
+    background-color: rgb(20, 106, 106);
+    padding: 8px;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+.nav__StronaGlowna, .nav__Polecane, .nav__Kontakt {
+    margin-right: 150px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}

@@ -1,0 +1,10 @@
+.body {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.body__header {
+    text-align: center;
+  background-color: azure;
+}

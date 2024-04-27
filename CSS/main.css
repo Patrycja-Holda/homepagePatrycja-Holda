@@ -1,0 +1,31 @@
+.main__header {
+    color: rgb(4, 87, 4);
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 20px;
+}
+
+.contact {
+    margin-top: 20px;
+}
+
+.video1 {
+    margin-top: 20px;
+}
+
+.conteiner {
+    overflow-x: auto;
+}
+
+.button {
+  padding: 8px;
+  background-color: rgb(163, 182, 146);
+  font-family: 'Lato', sans-serif;
+}
+
+.main_description1, .main_description2, .description3 {
+    line-height: 2;
+}
