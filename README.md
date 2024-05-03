@@ -1,4 +1,5 @@
 # Welcome to the page about me!
+## Demo
 [My Website] (https://patrycja-holda.github.io/homepagePatrycja-Holda/)
 **Contents:**
 - You will learn how my life journey with Frontend began
@@ -6,7 +7,7 @@
 - In addition, I included advice on time management and some sommelier knowledge
 
 
-## Technologies used in the project
+### Technologies used in the project
 
 - HTML
 - BEM - Block Element Modofier
