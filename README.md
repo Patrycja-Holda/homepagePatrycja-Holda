@@ -1,4 +1,9 @@
 # Welcome to the page about me!
+
+<a href="https://github.com/Patrycja-Holda/homepagePatrycja-Holda/blob/main/images/Zdj%C4%99cie%20biznesowe%202022.JPG?raw=true
+" target="_blank"><img src="https://github.com/Patrycja-Holda/homepagePatrycja-Holda/blob/main/images/Zdj%C4%99cie%20biznesowe%202022.JPG?raw=true" 
+alt="MY PHOTO" width="240" height="290" border="10" /></a>
+
 ## Demo
 [My Website] (https://patrycja-holda.github.io/homepagePatrycja-Holda/)
 **Contents:**
