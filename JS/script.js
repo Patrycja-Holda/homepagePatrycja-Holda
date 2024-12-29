@@ -1,4 +1,8 @@
-console.log("Cześć! Miłego dnia");
+function welcome() {
+    console.log("Cześć! Miłego dnia. Niech się darzy");
+}
+
+welcome();
 
 let button = document.querySelector(".button");
 let image = document.querySelector(".image");
