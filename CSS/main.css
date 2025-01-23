@@ -26,11 +26,11 @@
    font-family: 'Lato', sans-serif;
 }
 
-.main_description1, .main_description2, .description3 {
+.main__description1, .main__description2, .description3 {
     line-height: 2;
 }
 
-.main_description1 {
+.main__description1 {
     padding: 20px;
     margin: 40px auto;
 }
