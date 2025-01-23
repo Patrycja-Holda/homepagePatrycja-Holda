@@ -21,11 +21,16 @@
 }
 
 .button {
-  padding: 8px;
-  background-color: rgb(163, 182, 146);
-  font-family: 'Lato', sans-serif;
+   padding: 8px;
+   background-color: rgb(163, 182, 146);
+   font-family: 'Lato', sans-serif;
 }
 
 .main_description1, .main_description2, .description3 {
     line-height: 2;
+}
+
+.main_description1 {
+    padding: 20px;
+    margin: 40px auto;
 }
