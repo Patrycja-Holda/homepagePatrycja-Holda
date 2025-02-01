@@ -30,7 +30,7 @@
     line-height: 2;
 }
 
-.main__description1, .main__header2, .main__description2 {
+.main__description1, .main__header2, .main__description2, .image {
     padding: 10px;
     margin: 20px auto;
 }
